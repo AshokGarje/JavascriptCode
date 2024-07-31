@@ -1,0 +1,40 @@
+/* h1{
+    color: blue;
+    background-color: yellow;
+}
+body{
+    background-color: pink;
+    color: black;
+}
+button{
+    color: blueviolet;
+}
+
+#box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+} */
+
+/* Event.js */
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    color: black;
+    border: 2px black;
+    text-align: center;
+} */
+
+/* practice question */
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
